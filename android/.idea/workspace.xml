@@ -2314,7 +2314,7 @@
       </map>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="182" />
     <option name="y" value="23" />
     <option name="width" value="741" />
@@ -2479,7 +2479,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="182" y="23" width="741" height="947" extended-state="0" />
+    <frame x="182" y="23" width="741" height="947" extended-state="1" />
     <layout>
       <window_info anchor="bottom" id="Android Profiler" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
